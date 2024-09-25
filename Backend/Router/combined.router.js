@@ -4,7 +4,7 @@ const router = express.Router();
 
 const auth = require('../controller/middleware/auth'); // Import the auth middleware
 const functionsController = require('../controller/functions.controller');
-const rateSubmissionController = require('../controller/rateSubmission.controller');
+const rateSubmissionController = require('../controller/ratesubmission.controller');
 const combinedController = require('../controller/combined.controller');
 const userController = require('../controller/user.controller');
 const userAuthController = require('../controller/auth/user.auth');

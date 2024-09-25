@@ -1,0 +1,560 @@
+[{
+  "_id": {
+    "$oid": "66f2a164fdb6d4b9f49381df"
+  },
+  "material_type": "Hardware",
+  "options": {
+    "DOOR STOPPER HALF ROUND SS RED-ANT CS9259(DS013)": {
+      "rate": 4,
+      "uom": "PCS",
+      "qty": 12
+    },
+    "0.40MM GI, PP, RAL 9002 OFFWHITE 18/76 PROFILE SHEET": {
+      "rate": 20,
+      "uom": "SQM",
+      "qty": 12
+    },
+    "HINGES SOFT CLOSING A": {
+      "rate": 1.8,
+      "uom": "NOS",
+      "qty": 100
+    },
+    "SOFT CLOSING HINGES B": {
+      "rate": 1.8,
+      "uom": "NOS",
+      "qty": 100
+    },
+    "SOFT CLOSING HINGES C": {
+      "rate": 1.8,
+      "uom": "NOS",
+      "qty": 100
+    },
+    "DOOR LOCK (DORMA DOOR LOCK BODY)": {
+      "rate": 65,
+      "uom": "PCS",
+      "qty": 2
+    },
+    "DOOR HANDLE (DORMA DOOR HANDLE)": {
+      "rate": 65,
+      "uom": "SET",
+      "qty": 6
+    },
+    "DOOR CYLINDER (DORMA DOOR CYLINDER)": {
+      "rate": 65,
+      "uom": "NOS",
+      "qty": 2
+    },
+    "HINGES4\" (DORMA DOOR HINGES 4\"x3\"x3\")": {
+      "rate": 14,
+      "uom": "NOS",
+      "qty": 18
+    },
+    "DOOR CLOSED (DORMA)": {
+      "rate": 75,
+      "uom": "NOS",
+      "qty": 6
+    },
+    "BATHROOM INDICATOR LOCK": {
+      "rate": 45,
+      "uom": "NOS",
+      "qty": 4
+    },
+    "BATHROOM INDICATOR LOCK (LOCK BODY)": {
+      "rate": 65,
+      "uom": "NOS",
+      "qty": 4
+    },
+    "RUBBER DOOR SEAL (BLACK)": {
+      "rate": 160,
+      "uom": "ROLL",
+      "qty": 1
+    },
+    "SOFT CLOSING CHANNEL 500MM (BLACK)": {
+      "rate": 26,
+      "uom": "SET",
+      "qty": 9
+    },
+    "KINGSA NFR DOOR CORE (LIGHT CORE) 915x2135x44MM": {
+      "rate": 225,
+      "uom": "PCS",
+      "qty": 1
+    },
+    "CHIPBOARD TUBULAR 33MM": {
+      "rate": 80,
+      "uom": "PCS",
+      "qty": 7
+    },
+    "MILANO TROM HINGE 110 DEG SOFT CLOSING CLIP ON 4 HOLE PLATE FULL OVERLAY": {
+      "rate": 2.5,
+      "uom": "PCS",
+      "qty": 32
+    },
+    "UKEN TRY SQUARE 12\" PLASTIC HANDLE": {
+      "rate": 18,
+      "uom": "NOS",
+      "qty": 1
+    },
+    "NK 205/65R 16 95H NBLU HD PLUS - 2023": {
+      "rate": 200,
+      "uom": "L/S",
+      "qty": 2
+    },
+    "SOFT CLOSING CHANNEL 400MM (BLACK)": {
+      "rate": 22,
+      "uom": "SET",
+      "qty": 3
+    },
+    "SOFT CLOSING CHANNEL 450MM (BLACK)": {
+      "rate": 24,
+      "uom": "SET",
+      "qty": 12
+    },
+    "PROFILE HANDLE C TYPE 160MM BLACK": {
+      "rate": 4,
+      "uom": "PCS",
+      "qty": 3
+    },
+    "DRAWER SLIDE SOFT CLOSE 12\" (RUBY)": {
+      "rate": 10,
+      "uom": "SET",
+      "qty": 1
+    },
+    "SHELF SUPPORTER CLEAR": {
+      "rate": 0.09,
+      "uom": "NOS",
+      "qty": 100
+    },
+    "MAGNETIC PENCIL CONCEALED PUSH CATCHER LONG H/D GREY": {
+      "rate": 4,
+      "uom": "PCS",
+      "qty": 20
+    },
+    "PROFILE HANDLE C TYPE 192MM BLACK": {
+      "rate": 5,
+      "uom": "PCS",
+      "qty": 1
+    },
+    "F1007-416MM BLACK DRAWER HANDLE": {
+      "rate": 8,
+      "uom": "PCS",
+      "qty": 4
+    },
+    "30053-500MM CABINET HANDLE BLK": {
+      "rate": 10,
+      "uom": "PCS",
+      "qty": 1
+    },
+    "F1006-768MM BLACK DRAWER HANDLE": {
+      "rate": 24,
+      "uom": "PCS",
+      "qty": 1
+    },
+    "F1008-128MM BLACK DRAWER HANDLE": {
+      "rate": 6,
+      "uom": "PCS",
+      "qty": 1
+    },
+    "LL 5815 4\" GOLD LATCH TOWER BOLT": {
+      "rate": 15,
+      "uom": "PCS",
+      "qty": 1
+    },
+    "F1007-192MM BLACK DRAWER HANDLE": {
+      "rate": 5,
+      "uom": "PCS",
+      "qty": 4
+    },
+    "DORFIT EXTENDING BAR DT708-22": {
+      "rate": 30,
+      "uom": "PCS",
+      "qty": 3
+    },
+    "ALUMINIUM HANDLE SIZE 300x20x30MM": {
+      "rate": 10,
+      "uom": "LSM",
+      "qty": 3
+    },
+    "AVITA UK CLOTHES TUBE BROWN SIZE 01MTR": {
+      "rate": 40,
+      "uom": "SET",
+      "qty": 3
+    },
+    "AVITA UK TOP-FIXED CLOTHES TUBE BASE BROWN - 2 PCS AS SET": {
+      "rate": 15,
+      "uom": "SET",
+      "qty": 3
+    },
+    "AVITA UK PULL DOWN CLOTHES ROD 764/964x808x140MM BROWN": {
+      "rate": 350,
+      "uom": "SET",
+      "qty": 1
+    },
+    "AVITA UK TROUSERS RACK BROWN SIZE 864x420x56MM FOR 900MM WIDTH CABINET": {
+      "rate": 420,
+      "uom": "SET",
+      "qty": 1
+    },
+    "AVITA UK DOWNWARD GAS SPRING - IRON": {
+      "rate": 14,
+      "uom": "PCS",
+      "qty": 2
+    },
+    "AVITA UK SPECTRA HANDLE SERIES SILK WALNUT BROWN 50x200MM": {
+      "rate": 40,
+      "uom": "PCS",
+      "qty": 4
+    },
+    "CASTER WHEEL STRAIGHT 70MM": {
+      "rate": 8,
+      "uom": "NOS",
+      "qty": 28
+    },
+    "SOFT CLOSING CHANNEL 500MM": {
+      "rate": 17,
+      "uom": "SET",
+      "qty": 9
+    },
+    "CONSEALED HANDLE BLACK 200MM": {
+      "rate": 5.5,
+      "uom": "NOS",
+      "qty": 3
+    },
+    "DID 20MM GASKET RING": {
+      "rate": 1.5,
+      "uom": "PCS",
+      "qty": 10
+    },
+    "DID 35MM GASKET RING": {
+      "rate": 1.5,
+      "uom": "PCS",
+      "qty": 10
+    },
+    "DID 70MM GASKET RING": {
+      "rate": 1.5,
+      "uom": "PCS",
+      "qty": 10
+    },
+    "L-402 ROLLER HANDLE BLACK": {
+      "rate": 8,
+      "uom": "PCS",
+      "qty": 8
+    },
+    "HINGS 105 DEGREE": {
+      "rate": 3.5,
+      "uom": "NOS",
+      "qty": 4
+    },
+    "SOFT CLOSING CHANNEL 400MM": {
+      "rate": 30,
+      "uom": "SET",
+      "qty": 2
+    },
+    "sdsdsd": {
+      "rate": "32",
+      "uom": "dsd"
+    },
+    "vcvcvcv": {
+      "rate": "22",
+      "uom": "vvcc"
+    },
+    "ddfdf": {
+      "rate": "23",
+      "uom": "dfdfdfdf"
+    },
+    "dffdf": {
+      "rate": "33",
+      "uom": "cvvc"
+    },
+    "csdsd": {
+      "rate": 22,
+      "uom": "dsfdf"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2a226fdb6d4b9f49381e1"
+  },
+  "material_type": "Base Material",
+  "options": {
+    "MDF MEL B/S SANTAREM OAK 4x8x18 MM (#95)": {
+      "qty": 15,
+      "uom": "PCS",
+      "rate": 109
+    },
+    "FLEXIBLE PLY 4x8x8 MM VERTICAL": {
+      "qty": 1,
+      "uom": "PCS",
+      "rate": 115
+    },
+    "MDF PALIN 61212MM M/R": {
+      "qty": 1,
+      "uom": "PCS",
+      "rate": 150
+    },
+    "CHIPBOARD TUBULAR 900x2090x33MM (C)": {
+      "qty": 6,
+      "uom": "PCS",
+      "rate": 53
+    },
+    "MDF PALIN 4x8x06MM M/R": {
+      "qty": 12,
+      "uom": "PCS",
+      "rate": 28
+    },
+    "BEECHWOOD 2\" KD SUPER GRADE": {
+      "qty": 15.56,
+      "uom": "CFT",
+      "rate": 100
+    },
+    "MDF MEL B/S WHITE 4x8x18MM M/R": {
+      "qty": 35,
+      "uom": "PCS",
+      "rate": 113
+    },
+    "MDF PLAIN 4 x 8 x 06MM M/R": {
+      "qty": 8,
+      "uom": "PCS",
+      "rate": 28
+    },
+    "RED MERANTI WOOD 2\" x 10\" (AAA GRADE)": {
+      "qty": 4.58,
+      "uom": "CFT",
+      "rate": 88
+    },
+    "BEECH WOOD 2\" KD SUPER GARDE": {
+      "qty": 3.75,
+      "uom": "CFT",
+      "rate": 100
+    },
+    "MDF PLAIN 4 x 8 x 12MM": {
+      "qty": 15,
+      "uom": "PCS",
+      "rate": 43
+    },
+    "MDF PLAIN 4 x 8 x 09MM": {
+      "qty": 15,
+      "uom": "PCS",
+      "rate": 32
+    },
+    "MDF PLAIN 4 x 8 x 06MM": {
+      "qty": 20,
+      "uom": "PCS",
+      "rate": 21
+    },
+    "RED MERANTI WOOD 2\" x 12\" (AAA GRADE)": {
+      "qty": 60,
+      "uom": "CFT",
+      "rate": 90
+    },
+    "MDF PLAIN 4 x 8 x 18MM (PRIME)": {
+      "qty": 35,
+      "uom": "PCS",
+      "rate": 60
+    },
+    "MDF MEL B/S SANTAREM OAK 4 x 8 x 18MM (#95)": {
+      "qty": 65,
+      "uom": "PCS",
+      "rate": 109
+    },
+    "MDF MEL B/S NEW METALLIC SILVER 4x8x18MM (#07)": {
+      "qty": 28,
+      "uom": "PCS",
+      "rate": 99
+    },
+    "MDF PLAIN 6x12x18MM": {
+      "qty": 2,
+      "uom": "PCS",
+      "rate": 164
+    },
+    "MDF PLAIN 4x8x12MM": {
+      "qty": 10,
+      "uom": "PCS",
+      "rate": 43
+    },
+    "MDF PLAIN 4x8x18MM (PRIME)": {
+      "qty": 15,
+      "uom": "PCS",
+      "rate": 60
+    },
+    "MARINE PLYWOOD-12MM": {
+      "qty": 4,
+      "uom": "SHEET",
+      "rate": 50
+    },
+    "WHITE WOOD 2x3x13": {
+      "qty": 4,
+      "uom": "NOS",
+      "rate": 16
+    },
+    "WHITE WOOD 1x2x13": {
+      "qty": 2,
+      "uom": "LENGTH",
+      "rate": 7
+    },
+    "PLYWOOD WHITE 6MM": {
+      "qty": 1,
+      "uom": "SHEET",
+      "rate": 32
+    },
+    "12MM PLAIN MDF 4x8FT THAILAND": {
+      "qty": 35,
+      "uom": "SHEET",
+      "rate": 39
+    },
+    "18MM PLAIN 4x8FT THAILAND": {
+      "qty": 56,
+      "uom": "SHEET",
+      "rate": 54
+    },
+    "MDF MEL B/S BLACK MATT 4x8x18MM MDF -21-18-M-2F": {
+      "qty": 14,
+      "uom": "PCS",
+      "rate": 99
+    },
+    "LAM.4x8FTx0.9MM CROWN 9005 OR CLOUDY CEMENT": {
+      "qty": 2,
+      "uom": "PCS",
+      "rate": 93
+    },
+    "TURNING WOOD": {
+      "qty": 24,
+      "uom": "PCS",
+      "rate": 5
+    },
+    "MDF PLAIN 4x8x18MM M/R": {
+      "qty": 2,
+      "uom": "PCS",
+      "rate": 78
+    },
+    "MDF PLAIN 3MM -MALAYSIA": {
+      "qty": 30,
+      "uom": "SHEET",
+      "rate": 15
+    },
+    "9MM PLAIN MDF 4x8FT THAILAND": {
+      "qty": 15,
+      "uom": "SHEET",
+      "rate": 32
+    },
+    "MDF PLAIN 4x8x3MM": {
+      "qty": 6,
+      "uom": "PCS",
+      "rate": 12.5
+    },
+    "MDF PLAIN 4x8x18MM": {
+      "qty": 10,
+      "uom": "PCS",
+      "rate": 60
+    },
+    "PURE HIGH GLOSS MDF O/S UV COATED 4x8x18MM- BEIGE PUGL 3081": {
+      "qty": 7,
+      "uom": "PCS",
+      "rate": 160
+    },
+    "PURE BABY SKIN MATT MDF O/S EXCIMER FINISH 4x9x18MM BEIGE PUMT3081": {
+      "qty": 14,
+      "uom": "PCS",
+      "rate": 210
+    },
+    "MDF MEL B/S MIDNIGHT GREY 4x8x18MM": {
+      "qty": 15,
+      "uom": "PCS",
+      "rate": 109
+    },
+    "PURE HIGH GLOSS MDF O/S UV COATED 4x8x18MM INDUSTRIAL WHITE PUGL 3083": {
+      "qty": 17,
+      "uom": "PCS",
+      "rate": 160
+    },
+    "MDF MEL B/S MANGOLIA CREAM 4x8x18MM": {
+      "qty": 30,
+      "uom": "PCS",
+      "rate": 125
+    },
+    "dsdsd": {
+      "rate": 32,
+      "uom": "sdd"
+    },
+    "wewewe": {
+      "rate": 22,
+      "uom": "dsdsd"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2a28afdb6d4b9f49381e3"
+  },
+  "material_type": "Finishes",
+  "options": {
+    "LAM. 4x8FTx0.9MM CROWN 8109 SF ARMAGNA RUSTER MEDIUM": {
+      "rate": 73,
+      "uom": "PCS",
+      "qty": 3
+    },
+    "LAM. 4x8FTx0.9MM CROWN 9005 OR CLOUDY CEMENT": {
+      "rate": 93,
+      "uom": "PCS",
+      "qty": 10
+    },
+    "PVC EDGE/ BNDG 22 x 0.4MM SANTAREM OAK PVC95": {
+      "rate": 0.7,
+      "uom": "RM",
+      "qty": 300
+    },
+    "PVC EDGE/ BNDG 22 x 0.4MM NEW METALLIC SILVER PVC7": {
+      "rate": 0.6,
+      "uom": "RM",
+      "qty": 200
+    },
+    "PVC LIPPING 1MM X22MM SF 1493": {
+      "rate": 1.8,
+      "uom": "LM",
+      "qty": 200
+    },
+    "PVC LIPPING 1MM X22MM SF 1492": {
+      "rate": 1.8,
+      "uom": "LM",
+      "qty": 100
+    },
+    "PVC EDGE BNDG 22x 0.4MM COOL WHITE": {
+      "rate": 0.6,
+      "uom": "RM",
+      "qty": 100
+    },
+    ".55MM GI, PP,RAL 9002 OFFWHITE 18/76 S-TYPE PROFILE SHEET": {
+      "rate": 22.5,
+      "uom": "SQM",
+      "qty": 6
+    },
+    "LAM.4x8FTx0.9MM CROWN 7068 SF CHOCO BROWNY": {
+      "rate": 58,
+      "uom": "PCS",
+      "qty": 7
+    },
+    "LAM 4x8FTx.9MM CROWN 1002 SF OFFWHITE": {
+      "rate": 48,
+      "uom": "PCS",
+      "qty": 10
+    },
+    "PVC EDGE/BNDG 22x1.2MM BEIGE PUMT 3081": {
+      "rate": 2.3,
+      "uom": "RM",
+      "qty": 100
+    },
+    "PVC EDG/BNDG 22x1.2MM BEIGE PUGL 3081": {
+      "rate": 1.65,
+      "uom": "RM",
+      "qty": 100
+    },
+    "PVC EDGE/BNDG 22x1.2MM INDUSTRIAL WHITE PUGL 3083": {
+      "rate": 1.65,
+      "uom": "RM",
+      "qty": 200
+    }
+  },
+  "__v": 0
+}]

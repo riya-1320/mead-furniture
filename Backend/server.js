@@ -12,7 +12,8 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // Database connection
-mongoose.connect('mongodb://localhost:27017/furniture_order');
+mongoose.connect('mongodb://3.109.214.67:27017/meaddb');
+
 
 mongoose.connection.on('connected', () => {
   console.log('Connected to MongoDB');

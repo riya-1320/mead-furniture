@@ -12,7 +12,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // Database connection
-mongoose.connect('mongodb://3.109.214.67:27017/meaddb');
+mongoose.connect('mongodb://localhost:27017/meaddb');
 
 
 mongoose.connection.on('connected', () => {
